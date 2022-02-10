@@ -8,3 +8,8 @@
 	url = https://github.com/talleresdedatos/ejerciciosT1
 	shallow = true
 	registered = true
+[submodule "ejerciciosT2"]
+	path = ejerciciosT2
+	url = https://github.com/talleresdedatos/ejerciciosT2
+	shallow = true
+	registered = true
