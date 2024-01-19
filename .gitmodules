@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/talleresdedatos/universe
-	shallow = true
 	branch = HEAD
 [submodule "ejerciciosT1"]
 	path = ejerciciosT1
 	url = https://github.com/talleresdedatos/ejerciciosT1
-	shallow = true
-	registered = true
 [submodule "ejerciciosT2"]
 	path = ejerciciosT2
 	url = https://github.com/talleresdedatos/ejerciciosT2
-	shallow = true
-	registered = true
