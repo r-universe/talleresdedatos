@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/talleresdedatos/universe
+	url = https://github.com/talleresdedatos/talleresdedatos.r-universe.dev
 	branch = HEAD
 [submodule "ejerciciosT1"]
 	path = ejerciciosT1
